@@ -23,6 +23,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq Intro with a List", "W
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactManager", "Week1\Day2\Day2-ContactManager\ContactManager\ContactManager.csproj", "{A62416BC-AF60-47F6-9BDA-890260BF8084}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance & Polymorphism", "Week1\Day3\Day3-OOP-Advanced\Inheritance & Polymorphism\Inheritance & Polymorphism.csproj", "{ECE744E8-6C01-4420-9F79-CBB9DD632D75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Records", "Week1\Day3\Day3-OOP-Advanced\Records\Records.csproj", "{3ECDF439-98B0-4112-BDDA-A549733B032A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract Example", "Week1\Day3\Day3-OOP-Advanced\Abstract Example\Abstract Example.csproj", "{51ED2FC1-7264-42CB-964C-3CCB0BC0DE1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee Report (OOP + LINQ)", "Week1\Day3\Day3 - Employee Report (OOP + LINQ)\Employee Report (OOP + LINQ)\Employee Report (OOP + LINQ).csproj", "{D02F50D8-AC4A-4BDA-B6B2-4584F4E724E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +77,22 @@ Global
 		{A62416BC-AF60-47F6-9BDA-890260BF8084}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A62416BC-AF60-47F6-9BDA-890260BF8084}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A62416BC-AF60-47F6-9BDA-890260BF8084}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECE744E8-6C01-4420-9F79-CBB9DD632D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE744E8-6C01-4420-9F79-CBB9DD632D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE744E8-6C01-4420-9F79-CBB9DD632D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE744E8-6C01-4420-9F79-CBB9DD632D75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ECDF439-98B0-4112-BDDA-A549733B032A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ECDF439-98B0-4112-BDDA-A549733B032A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ECDF439-98B0-4112-BDDA-A549733B032A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ECDF439-98B0-4112-BDDA-A549733B032A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51ED2FC1-7264-42CB-964C-3CCB0BC0DE1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51ED2FC1-7264-42CB-964C-3CCB0BC0DE1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51ED2FC1-7264-42CB-964C-3CCB0BC0DE1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51ED2FC1-7264-42CB-964C-3CCB0BC0DE1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D02F50D8-AC4A-4BDA-B6B2-4584F4E724E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D02F50D8-AC4A-4BDA-B6B2-4584F4E724E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D02F50D8-AC4A-4BDA-B6B2-4584F4E724E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D02F50D8-AC4A-4BDA-B6B2-4584F4E724E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
