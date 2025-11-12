@@ -43,7 +43,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JSON Serialization", "Week1
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpenseTracker", "Week1\Day5\Day5-ExpenseTracker\ExpenseTracker\ExpenseTracker.csproj", "{6F3258D2-5825-414C-98A6-7A3E744A3E3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week2Day1-FirstWebAPI", "Week2\Day1\Day1-Exercises\Week2Day1-FirstWebAPI\Week2Day1-FirstWebAPI.csproj", "{CE5CB153-49BA-43DC-B110-EB6BF290A347}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week2Day1-FirstWebAPI", "Week2\Day1\Day1-Exercises\Week2Day1-FirstWebAPI\Week2Day1-FirstWebAPI.csproj", "{CE5CB153-49BA-43DC-B110-EB6BF290A347}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day2-CRUD-And-Validation", "Week2\Day2\Day2-Exercises\Day2-CRUD-And-Validation\Day2-CRUD-And-Validation.csproj", "{CCB63174-30B9-4D02-9456-DCC161902686}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{CE5CB153-49BA-43DC-B110-EB6BF290A347}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE5CB153-49BA-43DC-B110-EB6BF290A347}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE5CB153-49BA-43DC-B110-EB6BF290A347}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCB63174-30B9-4D02-9456-DCC161902686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCB63174-30B9-4D02-9456-DCC161902686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCB63174-30B9-4D02-9456-DCC161902686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCB63174-30B9-4D02-9456-DCC161902686}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

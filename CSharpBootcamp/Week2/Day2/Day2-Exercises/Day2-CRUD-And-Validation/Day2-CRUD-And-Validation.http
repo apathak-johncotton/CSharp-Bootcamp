@@ -1,0 +1,6 @@
+@Day2_CRUD_And_Validation_HostAddress = http://localhost:5196
+
+GET {{Day2_CRUD_And_Validation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
