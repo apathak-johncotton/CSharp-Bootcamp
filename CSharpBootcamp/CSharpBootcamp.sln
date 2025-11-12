@@ -15,33 +15,35 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Method practice", "Week1\Da
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentInfoApp", "Week1\Day1\Day1-StudentInfoApp\StudentInfoApp\StudentInfoApp.csproj", "{2CB93CB5-B8F1-4E4D-A3FA-CEA0F8EB77D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccount", "Week1\Day2\Day2-OOP-And-LINQ\BankAccount\BankAccount.csproj", "{2A489876-373F-449C-AD87-A4AF99174DFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankAccount", "Week1\Day2\Day2-OOP-And-LINQ\BankAccount\BankAccount.csproj", "{2A489876-373F-449C-AD87-A4AF99174DFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops Refresher", "Week1\Day2\Day2-OOP-And-LINQ\Loops Refresher\Loops Refresher.csproj", "{471E3D1D-8862-4D9F-B86C-D60D7BC2DCCF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops Refresher", "Week1\Day2\Day2-OOP-And-LINQ\Loops Refresher\Loops Refresher.csproj", "{471E3D1D-8862-4D9F-B86C-D60D7BC2DCCF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq Intro with a List", "Week1\Day2\Day2-OOP-And-LINQ\Linq Intro with a List\Linq Intro with a List.csproj", "{2DDE2BFC-781A-48FC-B8D5-59620F7E19F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linq Intro with a List", "Week1\Day2\Day2-OOP-And-LINQ\Linq Intro with a List\Linq Intro with a List.csproj", "{2DDE2BFC-781A-48FC-B8D5-59620F7E19F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactManager", "Week1\Day2\Day2-ContactManager\ContactManager\ContactManager.csproj", "{A62416BC-AF60-47F6-9BDA-890260BF8084}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactManager", "Week1\Day2\Day2-ContactManager\ContactManager\ContactManager.csproj", "{A62416BC-AF60-47F6-9BDA-890260BF8084}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance & Polymorphism", "Week1\Day3\Day3-OOP-Advanced\Inheritance & Polymorphism\Inheritance & Polymorphism.csproj", "{ECE744E8-6C01-4420-9F79-CBB9DD632D75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance & Polymorphism", "Week1\Day3\Day3-OOP-Advanced\Inheritance & Polymorphism\Inheritance & Polymorphism.csproj", "{ECE744E8-6C01-4420-9F79-CBB9DD632D75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Records", "Week1\Day3\Day3-OOP-Advanced\Records\Records.csproj", "{3ECDF439-98B0-4112-BDDA-A549733B032A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Records", "Week1\Day3\Day3-OOP-Advanced\Records\Records.csproj", "{3ECDF439-98B0-4112-BDDA-A549733B032A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract Example", "Week1\Day3\Day3-OOP-Advanced\Abstract Example\Abstract Example.csproj", "{51ED2FC1-7264-42CB-964C-3CCB0BC0DE1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstract Example", "Week1\Day3\Day3-OOP-Advanced\Abstract Example\Abstract Example.csproj", "{51ED2FC1-7264-42CB-964C-3CCB0BC0DE1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee Report (OOP + LINQ)", "Week1\Day3\Day3 - Employee Report (OOP + LINQ)\Employee Report (OOP + LINQ)\Employee Report (OOP + LINQ).csproj", "{D02F50D8-AC4A-4BDA-B6B2-4584F4E724E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Employee Report (OOP + LINQ)", "Week1\Day3\Day3 - Employee Report (OOP + LINQ)\Employee Report (OOP + LINQ)\Employee Report (OOP + LINQ).csproj", "{D02F50D8-AC4A-4BDA-B6B2-4584F4E724E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payment Processor", "Week1\Day4\Day4-Interfaces-And-DI\Payment Processor\Payment Processor.csproj", "{A22EED92-856A-4FCA-87BC-C6C8AD85D1D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Payment Processor", "Week1\Day4\Day4-Interfaces-And-DI\Payment Processor\Payment Processor.csproj", "{A22EED92-856A-4FCA-87BC-C6C8AD85D1D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryExample", "Week1\Day4\Day4-Interfaces-And-DI\RepositoryExample\RepositoryExample.csproj", "{5853B813-DC41-4AC8-BA56-1A377C8F6EC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RepositoryExample", "Week1\Day4\Day4-Interfaces-And-DI\RepositoryExample\RepositoryExample.csproj", "{5853B813-DC41-4AC8-BA56-1A377C8F6EC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Store", "Week1\Day4\Day4-SimpleStore\Simple Store\Simple Store.csproj", "{909BFAA6-7796-408F-B761-5592C98ACA00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simple Store", "Week1\Day4\Day4-SimpleStore\Simple Store\Simple Store.csproj", "{909BFAA6-7796-408F-B761-5592C98ACA00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "File Writing and Reading", "Week1\Day5\Day5-FileAndJson\File Writing and Reading\File Writing and Reading.csproj", "{72EA1549-D860-4F55-85D8-265F07DB9837}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "File Writing and Reading", "Week1\Day5\Day5-FileAndJson\File Writing and Reading\File Writing and Reading.csproj", "{72EA1549-D860-4F55-85D8-265F07DB9837}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSON Serialization", "Week1\Day5\Day5-FileAndJson\JSON Serialization\JSON Serialization.csproj", "{46442501-8BF7-4119-91FD-C288C9C4CE6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JSON Serialization", "Week1\Day5\Day5-FileAndJson\JSON Serialization\JSON Serialization.csproj", "{46442501-8BF7-4119-91FD-C288C9C4CE6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpenseTracker", "Week1\Day5\Day5-ExpenseTracker\ExpenseTracker\ExpenseTracker.csproj", "{6F3258D2-5825-414C-98A6-7A3E744A3E3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpenseTracker", "Week1\Day5\Day5-ExpenseTracker\ExpenseTracker\ExpenseTracker.csproj", "{6F3258D2-5825-414C-98A6-7A3E744A3E3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week2Day1-FirstWebAPI", "Week2\Day1\Day1-Exercises\Week2Day1-FirstWebAPI\Week2Day1-FirstWebAPI.csproj", "{CE5CB153-49BA-43DC-B110-EB6BF290A347}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{6F3258D2-5825-414C-98A6-7A3E744A3E3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F3258D2-5825-414C-98A6-7A3E744A3E3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F3258D2-5825-414C-98A6-7A3E744A3E3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE5CB153-49BA-43DC-B110-EB6BF290A347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE5CB153-49BA-43DC-B110-EB6BF290A347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE5CB153-49BA-43DC-B110-EB6BF290A347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE5CB153-49BA-43DC-B110-EB6BF290A347}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
