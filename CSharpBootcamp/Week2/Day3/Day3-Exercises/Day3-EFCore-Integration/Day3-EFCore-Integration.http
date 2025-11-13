@@ -1,0 +1,6 @@
+@Day3_EFCore_Integration_HostAddress = http://localhost:5020
+
+GET {{Day3_EFCore_Integration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
