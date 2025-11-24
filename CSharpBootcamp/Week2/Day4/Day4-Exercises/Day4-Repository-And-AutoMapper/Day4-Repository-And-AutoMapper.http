@@ -1,0 +1,6 @@
+@Day4_Repository_And_AutoMapper_HostAddress = http://localhost:5193
+
+GET {{Day4_Repository_And_AutoMapper_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
