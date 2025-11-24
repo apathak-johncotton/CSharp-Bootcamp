@@ -51,6 +51,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day3-EFCore-Integration", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day5-ErrorHandling-And-Logging", "Week2\Day5\Day5-Exercises\Day5-ErrorHandling-And-Logging\Day5-ErrorHandling-And-Logging.csproj", "{01EE9D2A-B398-4BE2-A662-C16F3B6B6DBF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week3Day1-JwtAuthDemo", "Week3\Day1\Day1-Exercises\Week3Day1-JwtAuthDemo\Week3Day1-JwtAuthDemo.csproj", "{567A9AC7-B8F7-452D-B7C9-B82709F16A8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{01EE9D2A-B398-4BE2-A662-C16F3B6B6DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01EE9D2A-B398-4BE2-A662-C16F3B6B6DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01EE9D2A-B398-4BE2-A662-C16F3B6B6DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{567A9AC7-B8F7-452D-B7C9-B82709F16A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{567A9AC7-B8F7-452D-B7C9-B82709F16A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{567A9AC7-B8F7-452D-B7C9-B82709F16A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{567A9AC7-B8F7-452D-B7C9-B82709F16A8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
